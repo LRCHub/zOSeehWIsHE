@@ -1,0 +1,32 @@
+{
+  "version": 1,
+  "base_track": "わがままコレクション(多田愛佳、前田亜美、小森美果、佐藤すみれ、渡辺麻友、松井珠理奈)",
+  "base_artist": "AKB48",
+  "createdAt": "2026-02-19T09:56:33.863034Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "わがままコレクション(多田愛佳、前田亜美、小森美果、佐藤すみれ、渡辺麻友、松井珠理奈)",
+      "artist": "AKB48",
+      "has_synced": true,
+      "path": "select/01_わがままコレクション(多田愛佳、前田亜美、小森美果、佐藤すみれ、渡辺麻友、松井珠理奈)_AKB48.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "わがままコレクション（多田愛佳、前田亜美、小森美果、佐藤すみれ、渡辺麻友、松井珠理奈）",
+      "artist": "AKB48",
+      "has_synced": true,
+      "path": "select/02_わがままコレクション(多田愛佳、前田亜美、小森美果、佐藤すみれ、渡辺麻友、松井珠理奈)_AKB48.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "わがままコレクション(多田愛佳、前田亜美、小森美果、佐藤すみれ、渡辺麻友、松井珠理奈)",
+      "artist": "AKB48",
+      "has_synced": false,
+      "path": "select/pl_01_わがままコレクション(多田愛佳、前田亜美、小森美果、佐藤すみれ、渡辺麻友、松井珠理奈)_AKB48.txt"
+    }
+  ]
+}
